@@ -5,5 +5,6 @@ In the IoT edge era, inevitable and ubiquitous presence of internet is opening d
 
 Keywords: Ransomware, Spyware, Trojan, Multi-class Classification, Explainable AI, Memory Forensics
 
-![OverAllModelwithSplit](https://github.com/user-attachments/assets/ebf720f9-40fe-4678-be1a-e78d25a2bf71)
+![image](https://github.com/user-attachments/assets/43b3b28e-9536-4a0f-bf8f-523f7e5b68de)
+
 
